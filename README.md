@@ -7,13 +7,14 @@ This simple yet engaging game is designed to be fun and challenging, allowing pl
 
 #Project Structure
 
+```
 HW1/
 ├── Source/
 │   └── HybridRecommender.py    # Hybrid recommender implementation
 │ 
 └── history.csv                 # where player history is saved
 └── README.md                   # Project documentation
-
+```
 
 #Author
 Phan Minh Thuy
