@@ -6,6 +6,7 @@ This simple yet engaging game is designed to be fun and challenging, allowing pl
 
 
 #Project Structure
+
 HW1/
 ├── Source/
 │   └── HybridRecommender.py    # Hybrid recommender implementation
