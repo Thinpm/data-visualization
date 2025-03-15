@@ -47,7 +47,6 @@ data/
 ```
 Crime-Map-Project/
  ├── CrimeMapAnalysis.ipynb   # Jupyter Notebook for crime mapping
- ├── crime_map.html           # Pre-generated interactive crime map
  ├── README.md                # Project documentation
  ├── requirements.txt         # Required dependencies
  ├── data/                    # Folder containing dataset
