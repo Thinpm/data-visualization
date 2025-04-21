@@ -1,0 +1,19 @@
+# GloVe embedding files
+glove.6B.*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Output files
+output/ 
