@@ -1,10 +1,8 @@
 # 📊 DỰ ÁN TRỰC QUAN HÓA DỮ LIỆU TÀI CHÍNH
 
 **🎓 Môn học:** Trực quan hóa dữ liệu (Data Visualization)  
-**🏫 Trường:** Đại học Công nghệ Thông tin - ĐHQG-HCM  
-**👨‍🎓 Sinh viên:** Phan Thị Thúy  
-**📅 Học kỳ:** 2024-2025  
-**🎯 Điểm đánh giá:** 88/100 (Loại Giỏi - A-)
+**🏫 Trường:** Đại học Tân Tạo 
+**👨‍🎓 Sinh viên:** Phan Minh Thuy 
 
 ---
 
@@ -45,16 +43,8 @@ Dự án này thực hiện phân tích và trực quan hóa dữ liệu tài ch
 │   └── 🖼 15_sales_profit_comparison.png   # So sánh doanh số và lợi nhuận
 ├── 📄 visualization.py                      # Script chính tạo biểu đồ
 ├── 📄 visualization_report.ipynb            # Jupyter notebook phân tích chi tiết
-├── 📄 add_conclusion.py                     # Script thêm kết luận cho biểu đồ
-├── 📄 fix_conclusion.py                     # Script sửa lỗi kết luận
 ├── 📁 .venv/                               # Virtual environment
-├── 📄 GIẢI_THÍCH_15_BIỂU_ĐỒ_CHI_TIẾT.md   # Giải thích chi tiết từng biểu đồ
-├── 📄 HƯỚNG_DẪN_LUYỆN_TẬP.md              # Hướng dẫn luyện tập
-├── 📄 HƯỚNG_DẪN_TÌM_BIỂU_ĐỒ.md            # Hướng dẫn tìm biểu đồ
-├── 📄 KỊCH_BẢN_THUYẾT_TRÌNH.md            # Kịch bản thuyết trình đầy đủ
-├── 📄 KỊCH_BẢN_THUYẾT_TRÌNH_20_PHÚT.md    # Kịch bản thuyết trình 20 phút
-├── 📄 ĐÁNH_GIÁ_DỰ_ÁN_CUỐI_KỲ.md          # Đánh giá chi tiết dự án
-└── 📄 README.md                            # File này
+└── 📄 README.md                           
 ```
 
 ---
@@ -207,22 +197,6 @@ open visualizations/07_segment_product_profit.png
 
 ---
 
-## 📚 **TÀI LIỆU THAM KHẢO**
-
-### 📖 **Documentation chi tiết**
-- [`GIẢI_THÍCH_15_BIỂU_ĐỒ_CHI_TIẾT.md`](GIẢI_THÍCH_15_BIỂU_ĐỒ_CHI_TIẾT.md) - Giải thích từng biểu đồ
-- [`HƯỚNG_DẪN_LUYỆN_TẬP.md`](HƯỚNG_DẪN_LUYỆN_TẬP.md) - Hướng dẫn thực hành
-- [`HƯỚNG_DẪN_TÌM_BIỂU_ĐỒ.md`](HƯỚNG_DẪN_TÌM_BIỂU_ĐỒ.md) - Cách tìm biểu đồ nhanh
-
-### 🎤 **Presentation Materials**
-- [`KỊCH_BẢN_THUYẾT_TRÌNH.md`](KỊCH_BẢN_THUYẾT_TRÌNH.md) - Kịch bản đầy đủ
-- [`KỊCH_BẢN_THUYẾT_TRÌNH_20_PHÚT.md`](KỊCH_BẢN_THUYẾT_TRÌNH_20_PHÚT.md) - Phiên bản rút gọn
-
-### 📋 **Assessment**
-- [`ĐÁNH_GIÁ_DỰ_ÁN_CUỐI_KỲ.md`](ĐÁNH_GIÁ_DỰ_ÁN_CUỐI_KỲ.md) - Đánh giá chi tiết từ giảng viên
-
----
-
 ## 🔧 **TROUBLESHOOTING**
 
 ### ❗ **Lỗi thường gặp**
@@ -259,41 +233,9 @@ for chunk in pd.read_csv('data/Financials.csv', chunksize=1000):
 
 ---
 
-## 🏆 **THÀNH TÍCH DỰ ÁN**
-
-### 📊 **Điểm đánh giá chi tiết**
-- **Kỹ thuật Visualization:** 28/30 (93.3%)
-- **Phân tích Dữ liệu:** 22/25 (88.0%)
-- **Thiết kế & UX:** 18/20 (90.0%)
-- **Documentation:** 13/15 (86.7%)
-- **Creativity:** 7/10 (70.0%)
-- **🎯 TỔNG ĐIỂM:** 88/100 (Loại Giỏi - A-)
-
-### 🌟 **Điểm nổi bật**
-- ✅ 15 biểu đồ đa dạng và chuyên nghiệp
-- ✅ Insights kinh doanh có giá trị thực tế
-- ✅ Code clean và well-documented
-- ✅ Presentation materials hoàn chỉnh
-- ✅ File organization system xuất sắc
-
----
-
 ## 📄 **LICENSE**
 
 Dự án này được tạo ra cho mục đích học tập tại môn Trực quan hóa dữ liệu.  
-© 2024 - Phan Thị Thúy - UIT
+© 2025 - Phan Minh Thuy - TTU
 
 ---
-
-## 🙏 **LỜI CẢM ơN**
-
-Xin chân thành cảm ơn:
-- **PGS.TS. Nguyễn Văn Khắt Khe** - Giảng viên hướng dẫn
-- **Đại học Công nghệ Thông tin** - Cung cấp môi trường học tập
-- **Cộng đồng Python/Data Science** - Tài liệu và thư viện mã nguồn mở
-
----
-
-*📅 Cập nhật lần cuối: Tháng 12/2024*  
-*🔄 Version: 1.0.0*  
-*📊 Status: Completed & Evaluated* 
