@@ -16,4 +16,5 @@ ENV/
 .idea/
 
 # Output files
-output/ 
+# Uncomment below line if you want to ignore output directory
+# output/ 
